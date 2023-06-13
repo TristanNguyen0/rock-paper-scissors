@@ -1,0 +1,18 @@
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.score{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
